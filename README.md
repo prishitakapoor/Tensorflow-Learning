@@ -1,4 +1,4 @@
-# Tensorflow-Specialization
+# Tensorflow-Learning
 
 # 3.NLP
 ![image](https://user-images.githubusercontent.com/51163007/124795670-e74dd880-df6d-11eb-94a3-3423711b9668.png)
